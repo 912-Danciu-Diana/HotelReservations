@@ -1,9 +1,5 @@
 # Hotels API Documentation
-
-This document provides an overview of the Hotels API, detailing the available endpoints and their functionalities.
-
-## API Endpoints
-
+# API Endpoints
 ### 1. Get All Hotels
 
 - **Endpoint:** `GET /`
@@ -71,8 +67,4 @@ This document provides an overview of the Hotels API, detailing the available en
 ## Usage
 
 To use the API, clone this repository, run `npm install` to install all necessary dependencies and run `node index.js` to start the server.
-
-## Note
-
-All endpoints are designed to handle asynchronous operations and error scenarios, ensuring robustness and reliability.
 
